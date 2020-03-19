@@ -1,2 +1,2 @@
 # Locks-and-Puzzles
-Nitin & Krishann Major Project
+Nitin & Krishnan Major Project
